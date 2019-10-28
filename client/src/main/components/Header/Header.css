@@ -1,0 +1,25 @@
+header {
+  padding: 24px 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.brand {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  margin-bottom: 24px;
+}
+
+.brand .logo {
+  font-weight: 900;
+  height: 28px;
+  margin-right: 12px;
+  color: #e12d2d;
+}
+
+.brand .pageTitle {
+  font-size: 18px;
+  color: #707070;
+}

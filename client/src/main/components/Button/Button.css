@@ -1,0 +1,24 @@
+.fullWidth {
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
+.btn {
+  width: 100%;
+  font-size: 18px;
+  text-align: center;
+  background: #e12d2d;
+  padding: 12px 8px;
+  color: #fff;
+  font-weight: bold;
+  border: 1.7px solid #910000;
+  border-radius: 8px;
+}
+
+.btn:hover {
+  background: #910000;
+}
+
+.btn:disabled {
+  background-color: #222;
+}

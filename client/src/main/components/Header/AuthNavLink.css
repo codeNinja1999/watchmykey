@@ -1,0 +1,11 @@
+nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: right;
+  align-items: center;
+}
+
+.navLink {
+  margin-right: 12px;
+  cursor: pointer;
+}

@@ -1,0 +1,13 @@
+.wrapper {
+  margin: 8px 0px;
+}
+
+input.input {
+  font-size: 18px;
+  background-color: #fff;
+  border-radius: 8px;
+  padding: 12px 8px;
+  text-align: center;
+  border: 1px solid #ccc;
+  width: 100%;
+}
